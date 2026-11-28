@@ -1,6 +1,8 @@
 ### Devansh Agrawal
 
-Finance Transformation & Strategy leader (MBA, IIT Delhi | B.Tech., NIT Jalandhar). Focuses on commercial finance, FP&A, ERP modernization (SAP S/4HANA), and deterministic Python/SQL + AI workflows for decision intelligence.
+Finance Transformation & Strategy leader (MBA, IIT Delhi | B.Tech., NIT Jalandhar | WU Vienna Global Field Study). Focuses on commercial finance, FP&A, ERP modernization (SAP S/4HANA), and deterministic Python/SQL + AI workflows for decision intelligence.
+
+- **Executive Portfolio & Case Study Dossier**: **[devansh2396.github.io](https://devansh2396.github.io)** (Interactive Volume-Rate-Mix & DSO Simulator + downloadable 1-page architectural teardowns & decks)
 
 #### Selected Public Repositories
 
@@ -13,4 +15,5 @@ Finance Transformation & Strategy leader (MBA, IIT Delhi | B.Tech., NIT Jalandha
 
 #### Connect
 
+- [Portfolio](https://devansh2396.github.io)
 - [LinkedIn](https://www.linkedin.com/in/devagrwl/)
